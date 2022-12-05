@@ -1,0 +1,20 @@
+game: Rock Paper Scissors
+moves:
+  - name: Rock
+    symbols:
+      - R
+      - r
+    beats: Scissors
+    score: 1
+  - name: Scissors
+    symbols:
+      - S
+      - s
+    beats: Paper
+    score: 3
+  - name: Paper
+    symbols:
+      - P
+      - p
+    beats: Rock
+    score: 2
